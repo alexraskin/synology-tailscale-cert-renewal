@@ -1,7 +1,8 @@
 # Tailscale Certificate Automation Script for Synology DSM
 
 This script automates the generation and renewal of Tailscale certificates on a Synology DSM. It ensures that the certificates are up-to-date and will regenerate them if they are about to expire soon.
-Inspiration
+
+## Inspiration
 
 This script was inspired by the [Medium article by Walid Karray on automating Tailscale](https://medium.com/@walid.karray/automating-tailscale-certificate-configuration-on-synology-dsm-8a3c3b79e010) certificate configuration on Synology DSM.
 
