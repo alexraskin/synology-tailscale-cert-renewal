@@ -1,5 +1,8 @@
 # Tailscale Certificate Automation Script for Synology DSM
 
+> [!IMPORTANT]
+> Important Update (11 Aug 2024): This solution outlined is now outdated. For the most current method of generating SSL certificates for Tailscale, please follow the instructions in the [original article by sim642](https://sim642.eu/blog/2024/08/11/tailscale-https-certificate-on-synology-nas/).
+
 This script automates the generation and renewal of Tailscale certificates on a Synology DSM. It ensures that the certificates are up-to-date and will regenerate them if they are about to expire soon.
 
 ## Inspiration
